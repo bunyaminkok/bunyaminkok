@@ -1,7 +1,11 @@
 <h1 align="center">Welcome My Github Profile.</h1>
 
  ## 🙋🏻‍♂️ &nbsp; About Me
-  Selamlar
+  Herkese Selamlar <br>
+  Faydalı bulduğum Linkler:<br>
+  https://skillicons.dev/icons?i=vscode<br>
+  https://github.com/tandpfun/skill-icons<br>
+  https://github.com/tandpfun/skill-icons/blob/main/readme.md<br>
  
  ## 🛠️ &nbsp; My Experience
    
