@@ -1,4 +1,4 @@
-<h1 align="center">Github Profilime Hoşgeldiniz.</h1>
+<h1 align="center">Welcome My Github Profile.</h1>
 
  ## 🙋🏻‍♂️ &nbsp; About Me
   Selamlar
