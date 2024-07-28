@@ -2,11 +2,9 @@
 
  ## 🙋🏻‍♂️ &nbsp; About Me
   Herkese Selamlar <br>
-  Faydalı bulduğum Linkler:<br>
-  https://skillicons.dev/icons?i=vscode<br>
-  https://github.com/tandpfun/skill-icons<br>
-  https://github.com/tandpfun/skill-icons/blob/main/readme.md<br>
- 
+  
+  Tasarımı Güzel Readme Dosyaları: 
+ [🔗](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
  ## 🛠️ &nbsp; My Experience
    
    [![SAP.png](https://resmim.net/cdn/2024/07/28/WrpReZ.png)](https://www.sap.com/index.html)&nbsp;&nbsp;&nbsp;
