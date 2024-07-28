@@ -1,0 +1,2 @@
+# Hakk-mda
+Herkese Merhaba
