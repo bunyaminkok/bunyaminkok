@@ -4,7 +4,10 @@
   Herkese Selamlar <br>
   
   Tasarımı Güzel Readme Dosyaları: 
- [🔗](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
+   [Buradan Ulaşailirsiniz](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
+
+  <!--  [🔗](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)-->
+  
  ## 🛠️ &nbsp; My Experience
    
    [![SAP.png](https://resmim.net/cdn/2024/07/28/WrpReZ.png)](https://www.sap.com/index.html)&nbsp;&nbsp;&nbsp;
