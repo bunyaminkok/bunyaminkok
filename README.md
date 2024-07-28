@@ -54,3 +54,7 @@
   <a target='_blank' href='https://tr.imgbb.com/'>the coma indir</a><br />
   
 </p>
+
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+http://www.kodkaynagi.com/wp-content/uploads/2016/12/sapabap-1024x219.png
