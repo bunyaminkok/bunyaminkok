@@ -50,16 +50,16 @@
 ## ☎️ &nbsp; For Contact
 
   
-<a href="https://www.linkedin.com/in/bunyaminkok/" target="_blank" rel="noreferrer">
+<a href="www.google.com.tr" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="html5" width="40" height="35"/>
    </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/bunyaminkokk/" target="_blank" rel="noreferrer">
+<a href="www.google.com.tr" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" alt="html5" width="40" height="35"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 
-<a href="https://x.com/bunyaminkokk?t=QnTiMhoj_h1jpY-z-S7EQQ&s=09" target="_blank" rel="noreferrer">
+<a href="www.google.com.tr" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter" alt="html5" width="40" height="35"/>
 </a>&nbsp;&nbsp;&nbsp;
 
