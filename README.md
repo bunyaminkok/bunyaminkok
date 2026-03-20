@@ -10,7 +10,7 @@
   
  ## 🛠️ &nbsp; My Experience
    
-   [![SAP.png](https://resmim.net/cdn/2024/07/28/WrpReZ.png)](https://www.sap.com/index.html)&nbsp;&nbsp;&nbsp;
+  
    <a href="" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" alt="html5" width="40" height="35"/>
    </a>&nbsp;&nbsp;&nbsp;
