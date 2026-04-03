@@ -2,7 +2,7 @@
 
  ## 🙋🏻‍♂️ &nbsp; About Me
   Herkese Selamlar <br>
-  
+ [Contact](https://www.afshar.dev/) <br>  
   Tasarımı Güzel Readme Dosyaları: 
    [Buradan Ulaşailirsiniz](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
 
